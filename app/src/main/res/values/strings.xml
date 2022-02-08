@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NEWS APP(I)</string>
+    <string name="if_you_re_bored_click_here">IF YOU ARE BORED CLICK HERE</string>
+    <string name="todo">TODO</string>
+    <string name="click_here">CLICK HERE</string>
+    <string name="find_out_the_latest_news_from_the_world_or_just_have_fun">Find out the latest news from the world or just have fun</string>
+    <string name="share_this_app_with_your_friends_to_keep_them_up_to_date_with_news_from_around_the_world_we_are_sure_that_the_conversations_will_be_more_interesting_for_you_because_you_will_have_many_topics_to_talk_about">Share this app with your friends to keep them up to date with news from around the world. We are sure that the conversations will be more interesting for you because you will have many topics to talk about.</string>
+    <string name="share_this_app">SHARE THIS APP</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu_entertainment">Entertainment News</string>
+    <string name="menu_science">Science News</string>
+    <string name="menu_technology">Technology News</string>
+    <string name="menu_business">Business News</string>
+</resources>
